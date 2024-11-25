@@ -50,6 +50,36 @@ main {
     margin-top: 47px;
 }
 
+/* Reasons Section */ 
+
+#reasons {
+    width: 90%;
+    margin: 20px auto 20px auto;
+}
+
+#reasons h2 {
+    font-size: 280%;
+    text-align: center;
+}
+
+#benefits {
+    margin-top: 20px;
+}
+
+#benefits-physical > div, #benefits-mental > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits hr {
+    margin: 5px 0;
+    border-top: 1px solid #3a3a3a;
+}
+
+#benefits-physical > div > p, #benefits-mental > div > p {
+    padding: 0 20px;
+}
+
 /* Hero Section Styles*/
 
 #hero {
